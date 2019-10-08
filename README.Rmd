@@ -23,6 +23,6 @@ Termin: **Raum C.A.R.L. S01** Freitags 8:30 - 10:00 Uhr
   * Auf MAC benötigen Sie Sierra oder höher
   * Auf Windows benötigen Sie 
   
-
+Github-Seite Infos zum Seminar [Link](https://github.com/Sumidu/EmpirischeForschungsmethoden/tree/master/Seminar)
 
 
