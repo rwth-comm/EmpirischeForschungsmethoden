@@ -17,3 +17,7 @@ Seminar Forschungsmethoden
         Ordnung.
   - DataCamp Account mit RWTH Email-Adresse
     [Link](http://www.datacamp.com)
+
+## Link zum Hausaufgaben Repository
+
+[Link](https://github.com/rwth-comm/AbgabenMethodenWS1920/)

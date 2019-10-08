@@ -19,3 +19,7 @@ knitr::opts_chunk$set(echo = TRUE)
   * Bitte wählen Sie einen nachvollziehbaren Usernamen (z.B. VornameNachname)
   * Sollten Sie bereits einen Account haben, ist dieser auch in Ordnung.
 * DataCamp Account mit RWTH Email-Adresse [Link](http://www.datacamp.com)
+
+## Link zum Hausaufgaben Repository
+
+[Link](https://github.com/rwth-comm/AbgabenMethodenWS1920/)
