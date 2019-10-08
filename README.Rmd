@@ -23,12 +23,6 @@ Termin: **Raum C.A.R.L. S01** Freitags 8:30 - 10:00 Uhr
   * Auf MAC benötigen Sie Sierra oder höher
   * Auf Windows benötigen Sie 
   
-### Liste von Software, die Sie installieren werden:
 
-* R [R Version 3.6.1](https://packages.othr.de/cran/)
-* RStudio [RStudio Free IDE](https://rstudio.com/products/rstudio/download/)
-* Git [Git Version 2.3](https://git-scm.com/downloads)
-
-### Liste von Accounts, die Sie anlegen werden:
 
 
