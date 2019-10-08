@@ -1,0 +1,10 @@
+---
+title: "Seminar Forschungsmethoden"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Inhalt vom Seminar
