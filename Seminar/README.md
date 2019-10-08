@@ -11,9 +11,9 @@ Seminar Forschungsmethoden
 ### Liste von Accounts, die Sie anlegen werden:
 
   - GitHub Account mit RWTH Email-Adresse [Link](http://www.github.com)
-      - Bitte wählen Sie einen nachvollziehbaren Username (z.B.
+      - Bitte wählen Sie einen nachvollziehbaren Usernamen (z.B.
         VornameNachname)
       - Sollten Sie bereits einen Account haben, ist dieser auch in
-        Ordnung
+        Ordnung.
   - DataCamp Account mit RWTH Email-Adresse
     [Link](http://www.datacamp.com)

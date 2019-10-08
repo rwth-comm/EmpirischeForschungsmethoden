@@ -4,6 +4,12 @@ Empirische Forschungsmethoden für Fortgeschrittene
 Repository zur Lehrveranstaltung Empirische Forschungsmethoden für
 Fortgeschrittene an der RWTH Aachen
 
+Github-Seite: Informationen zum Seminar
+[Link](https://github.com/Sumidu/EmpirischeForschungsmethoden/tree/master/Seminar)
+
+Github-Seite: Informationen zur Vorlesung
+[Link](https://github.com/Sumidu/EmpirischeForschungsmethoden/tree/master/Vorlesung)
+
 # Aktuelle Informationen
 
 ## Begleitendes Seminar
@@ -20,10 +26,13 @@ Termin: **Raum C.A.R.L. S01** Freitags 8:30 - 10:00 Uhr
   - Sie benötigen einen Computer (Laptop oder ähnliches, Tablet
     funktioniert NICHT\!)
       - Auf diesem Laptop werden Sie Software installieren. Sie sollten
-        daher ca. 3-4 GB Speicherplatz auf diesem Gerät haben und
+        daher mindestens 3-4 GB Speicherplatz auf diesem Gerät haben und
         Admin-Rechte haben.
-      - Auf MAC benötigen Sie Sierra oder höher
-      - Auf Windows benötigen Sie
+      - Auf MAC benötigen Sie Sierra oder höher.
+      - Auf Windows benötigen Sie Windows 7 oder höher
+      - Eduroam muss auf dem Rechner verfügbar sein
+        [Link](https://doc.itc.rwth-aachen.de/display/EGM/Zugangsdaten+anlegen).
 
-Github-Seite Infos zum Seminar
-[Link](https://github.com/Sumidu/EmpirischeForschungsmethoden/tree/master/Seminar)
+In der ersten Sitzung stellen wir sicher, dass Sie im Seminar
+mitarbeiten können und Sie die Foliensätze bekommen können. Daher
+empfehlen wir Ihnen dringend an dieser Sitzung teilzunehmen.

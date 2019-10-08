@@ -16,6 +16,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ### Liste von Accounts, die Sie anlegen werden:
 
 * GitHub Account mit RWTH Email-Adresse [Link](http://www.github.com)
-  * Bitte wählen Sie einen nachvollziehbaren Username (z.B. VornameNachname)
-  * Sollten Sie bereits einen Account haben, ist dieser auch in Ordnung
+  * Bitte wählen Sie einen nachvollziehbaren Usernamen (z.B. VornameNachname)
+  * Sollten Sie bereits einen Account haben, ist dieser auch in Ordnung.
 * DataCamp Account mit RWTH Email-Adresse [Link](http://www.datacamp.com)
