@@ -1,0 +1,13 @@
+---
+title: "Lecture 3"
+author: "André Calero Valdez"
+date: "10/28/2019"
+output: github_document
+---
+
+
+
+# Links
+
+KI: die Texte vervollständigen kann
+- Transformer Architekturen: https://talktotransformer.com/
